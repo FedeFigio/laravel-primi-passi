@@ -88,11 +88,6 @@
             <div class="title m-b-md">
                 CHI SIAMO
             </div>
-
-            <div class="links">
-                <a href="/">HOME</a>
-                <a href="/contatti">CONTATTI</a>
-            </div>
         </div>
     </div>
     @include('_partials.footer')

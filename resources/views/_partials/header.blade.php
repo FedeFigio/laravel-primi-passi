@@ -12,6 +12,8 @@
 
     </style>
 </head>
-<header>
-    questo e un header importato
+<header class="links">
+    <a href="/">HOME</a>
+    <a href="/chi-siamo">CHI SIAMO</a>
+    <a href="/contatti">CONTATTI</a>
 </header>
